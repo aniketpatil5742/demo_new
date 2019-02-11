@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-
-=======
-import java.io.BufferedReader;
->>>>>>> 23556bb874c7954b3b54bf4b73d0aafbc9a24aba
-import java.io.DataInputStream;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-<<<<<<< HEAD
-import java.util.Scanner;
-=======
-
->>>>>>> 23556bb874c7954b3b54bf4b73d0aafbc9a24aba
 
 public class TWR {
 
