@@ -1,7 +1,3 @@
-package Custome;
-
-import java.util.Scanner;
-
 public class A {
 
 	
